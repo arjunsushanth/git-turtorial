@@ -1,3 +1,7 @@
 git init
 git status
 git add-A
+git commit -m"added"
+git push
+git pull
+git clone
